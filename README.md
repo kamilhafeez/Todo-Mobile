@@ -8,7 +8,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 Before running the app, make sure to set up and start the backend. Follow the instructions in the backend repository:
 
-Backend Repository: <backend-repo-link>
+Backend Repository: https://github.com/kamilhafeez/Todo-Backend/blob/master/README.md
 
 1. Install dependencies
 
